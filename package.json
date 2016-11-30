@@ -1,0 +1,40 @@
+{
+  "name": "fcc-voting-app",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Voting App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nf start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cirych/FCC-VotingApp.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "voting"
+  ],
+  "author": "Cirych",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cirych/FCC-VotingApp/issues"
+  },
+  "homepage": "https://github.com/Cirych/FCC-VotingApp#readme",
+  "dependencies": {
+    "babel-cli": "6.18.0",
+    "babel-core": "6.18.2",
+    "babel-preset-es2017-node7": "0.4.1",
+    "foreman": "2.0.0"
+  },
+  "devDependencies": {
+    "concurrently": "3.1.0"
+  },
+  "engines": {
+    "node": "7.2.0"
+  },
+  "babel": {
+    "presets": [
+      "es2017-node7"
+    ]
+  }
+}

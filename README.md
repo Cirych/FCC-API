@@ -1,2 +1,2 @@
-# FCC-VotingApp
-(🔥) freeCodeCamp Voting App
+# FCC-API
+(🔥) API for freeCodeCamp challenges
